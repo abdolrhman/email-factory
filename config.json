@@ -1,0 +1,11 @@
+{
+  "sender_email" : "email@test.com",
+  "email_transporter" : {
+    "host" : "smtp.mailtrap.io",
+    "port" : 2525,
+    "auth" : {
+      "user" : "cbb3680e7650e9",
+      "pass" : "aa8cad24d365cd"
+    }
+  }
+}
